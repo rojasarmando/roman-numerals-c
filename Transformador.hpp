@@ -23,7 +23,7 @@ public:
 
 	/**
 	 * Obtiene el tamaño de un String 
-	 * @param cadena [string]
+	 * @par<img src="./img/5.png">am cadena [string]
 	 * @return tamaño de un arreglo [int]
 	 */
 

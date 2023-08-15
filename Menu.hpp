@@ -61,10 +61,10 @@ void mensajeFinal(){
 	fondoAzul(); 
 
 	cout<<endl<<endl<<endl; // 3 saltos de linea
-	cout<<"\t# Practicando Lenguaje C++...."<<endl<<endl;
-	cout<<"\t# Armando Jose Rojas Querales"<<endl<<endl;
-	cout<<"\t# Correo : rojasarmando260@gmail.com "<<endl<<endl;
-	cout<<"\t# Para la UNEFA - Extension Turen "<<endl<<endl;
+	cout<<"\t# Numeros Romanos C++...."<<endl<<endl;
+	cout<<"\t# Armando Rojas"<<endl<<endl;
+	cout<<"\t# Correo : armando.develop@gmail.com "<<endl<<endl;
+	cout<<"\t# UNEFA - Extension Turen "<<endl<<endl;
 	cout<<"\t# Ingenieria de Sistema IV Semestre - 2015 "<<endl<<endl<<endl<<endl;
 	pausa();
 

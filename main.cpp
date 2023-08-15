@@ -5,8 +5,7 @@
 	A numeros Naturales y viceversa ...
 
 	@Autor = Armando Jose Rojas Querales
-
-	@email = rojasarmando260@gmail.com
+	@email = armando.develop@gmail.com
 	
 	Estudiante de Ingenieria de Sistemas del 4to Semestre 
 	

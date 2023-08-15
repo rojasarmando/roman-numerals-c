@@ -1,4 +1,4 @@
-# Numeros-Romanos-Lenguaje-C
+# Numeros Romanos en C++
 
 Aplicacion para transformar un numero natural a romano utilizando lenguaje C++ 
 
